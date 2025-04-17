@@ -1,6 +1,6 @@
 # Introduction to Fintech
 
-Welcome to the GitHub organization for the Introduction to Decentralized Finance & Introduction to Fintech course at National Taiwan University (NTU). This repository serves as a central hub for course materials, assignments and resources.
+Welcome to the GitHub organization for the Introduction to Decentralized Finance & Introduction to Fintech & Big Data Application course at National Taiwan University (NTU). This repository serves as a central hub for course materials, assignments and resources.
 
 ## Course Information
 
